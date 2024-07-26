@@ -19,7 +19,9 @@ public class Main {
 
         // 자동차 객체에 부품 등록
         car.setTire(tires);
+
         car.setDoor(doors);
+
         car.setHandle(handle);
 
         // 등록된 부품 확인하기
