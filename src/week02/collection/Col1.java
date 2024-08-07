@@ -23,7 +23,7 @@ public class Col1 {
         // 2번째 있는 값(15)을 바꿔보자
         intList.set(1, 10);
         System.out.println(intList.get(1));
-
+        System.out.println(intList.get(0));
         //삭제
         intList.remove(0);
         System.out.println(intList.get(0));

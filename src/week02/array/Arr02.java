@@ -20,9 +20,9 @@ public class Arr02 {
 //            System.out.println(intArr[i]);
 //        }
 
-//        for(int i: intArr){
-//            System.out.println(i);
-//        }
+        for(int i: intArr){
+            System.out.println(i);
+        }
 
         //배열의 주소를 모두 같은 값으로 초기화
         Arrays.fill(intArr, 1);

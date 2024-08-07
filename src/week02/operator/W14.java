@@ -1,8 +1,11 @@
 package src.week02.operator;
+import java.util.Scanner;
 
 public class W14 {
     public static void main(String[] args) {
-        int month = 8;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("month입력 : ");
+        int month = sc.nextInt();
         String monthString = "";
 
         //switch 문

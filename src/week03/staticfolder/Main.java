@@ -15,7 +15,6 @@ public class Main {
         System.out.println();
         // 참조형 변수 사용
         Car car = new Car(); // 객체 생성
-
         car.company = "Ferrari";
         System.out.println(car.company + "\n");
 

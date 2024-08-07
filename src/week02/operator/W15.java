@@ -21,7 +21,6 @@ public class W15 {
            System.out.print(numbers[i] + " ");
         }
 
-
         }
     }
 
